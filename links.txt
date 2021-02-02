@@ -1,0 +1,6 @@
+Reinforcement Learning
+https://spinningup.openai.com/en/latest/
+https://gym.openai.com/docs/
+https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
+https://docs.ray.io/en/latest/rllib.html
+http://rail.eecs.berkeley.edu/deeprlcourse/ https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A
